@@ -2,8 +2,6 @@
 
 A fully functional, responsive, and feature-rich single-file Chess game built with **HTML5**, **Tailwind CSS**, and vanilla **JavaScript**. Designed for seamless gameplay directly in the browser or mobile devices without any external dependencies or complex build tools.
 
-🌐 **Play Online Live:** [GitHub Pages Link](#) *(Replace with your live GitHub Pages URL)*
-
 ---
 
 ## ✨ Key Features
